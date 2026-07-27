@@ -21,3 +21,10 @@ Borof Pani 3D is a browser-based recreation of the traditional Bangladeshi playg
 ## Objective
 
 One player becomes the Catcher through a random lottery. The Catcher must freeze all runners before time runs out, while runners work together to rescue frozen teammates and survive until the timer ends.
+
+
+## Team 5
+- **Arpa Bhowmik** — #U220
+- **Yeasmin Kabir Keya** — #U205
+- **Fahima Abida Chowdhury** — #U210
+- **Arpa Bhowmik** — #U220
