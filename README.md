@@ -24,7 +24,7 @@ One player becomes the Catcher through a random lottery. The Catcher must freeze
 
 
 ## Team 5
-- **Arpa Bhowmik** — #U220
-- **Yeasmin Kabir Keya** — #U205
-- **Fahima Abida Chowdhury** — #U210
-- **Arpa Bhowmik** — #U220
+- **Arpa Bhowmik** — U220
+- **Yeasmin Kabir Keya** — U205
+- **Fahima Abida Chowdhury** — U210
+
