@@ -1,7 +1,8 @@
 # 🎮 Borof-Pani-3d-game by Team 5
 Borof Pani 3D is a browser-based recreation of the traditional Bangladeshi playground game.
 
-🟢LIVE LINK : 
+🟢LIVE LINK : https://arpocalypse.github.io/Borof-Pani-3d-game/
+
 ## Features
 
 - 🎮 Third-person 3D gameplay
